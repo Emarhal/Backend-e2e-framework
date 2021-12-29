@@ -102,3 +102,16 @@ dist
 
 # TernJS port file
 .tern-port
+
+# dependencies
+package-lock.json
+yarn.lock
+
+# idea log files
+/.idea
+
+# reports folders
+test-utils/reports
+
+# testrail run-id folder
+test-utils/test-rail/run-id
